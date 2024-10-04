@@ -1,6 +1,6 @@
 <h1>Hi, I'm Serhii! Passionate Information Technology Specialist</h1>
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<h2>👨‍💻 Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/serhiialtman/Azure-SOC)
