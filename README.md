@@ -4,6 +4,9 @@
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a Live SOC / Honeynet in Azure](https://github.com/serhiialtman/Azure-SOC)
+ 
+- <b>Windows Server 2019</b>
+  - [Active Directory Home Lab]([https://github.com/serhiialtman/Azure-SOC](https://github.com/serhiialtman/Windows-Server-2019/blob/main/README.md))
 
 
 <!--
