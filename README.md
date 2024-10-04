@@ -1,4 +1,4 @@
-<h1>Hi, I'm Serhii! Passionate Cyber Security Analyst</h1>
+<h1>Hi, I'm Serhii! Passionate Information Technology Specialist</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
